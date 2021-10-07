@@ -14,6 +14,8 @@
 - Site: http://localhost:8910
 - GraphQL: http://localhost:8911/graphql
 
+### Deployment
+- yarn rw setup deploy netlify
 
 > **NOTICE:** RedwoodJS is very close to a stable version 1.0. In the last two years,
 > the project has matured significantly and is already used in production by a number
